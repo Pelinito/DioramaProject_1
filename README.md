@@ -10,9 +10,13 @@ The code is for Arduino Nano and I programmed the LED blinks based on the beat p
 The color of the LEDs in the script is to group the dancers. It is easier for me to see the movement in the blinks while I'm working on the breadboard. Each dancer group also represents a beat line used in the song (https://en.wikipedia.org/wiki/Around_the_World_(Daft_Punk_song)#Music_video).
 
 In this project we defined the groups as:
-Skeletons are the guitar, blue color.
-Mummies are the bass, red color. 
-Synchronised swimmers are the high pitch sounds, green color.
-Robots are the vocals, yellow color. 
+- Skeletons are the guitar, blue color. 
+- Mummies are the bass, red color. 
+- Synchronised swimmers are the high pitch sounds, green color.
+- Robots are the vocals, yellow color. 
 
-I asked ChatGPT the beat patterns. It looks fine and in sync.
+
+
+I asked ChatGPT the beat patterns. It looks fine and in sync. Later in the implementation and under the diorama, the LED colors will change to white.
+
+For now I don't have any light sequence for the background of the scene.
