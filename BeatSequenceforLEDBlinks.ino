@@ -42,12 +42,6 @@ bool ledPatterns[numLeds][patternLength] = {
   // Mummies - Bass Line (red LED)
   {1, 0, 1, 0, 1, 0, 1, 0} // Bass - one LED only - D11
 
-
-
-  // {1, 0, 1, 0, 1, 0, 1, 0},  // Bass Line - Skeletons / mummies
-  // {1, 1, 0, 0, 1, 1, 0, 0},  // Vocal Line - Athletes
-  // {1, 0, 1, 1, 0, 1, 0, 0},  // Synthesizer - Robots
-  // {0, 1, 0, 1, 0, 1, 0, 1}   // Hi-Hat, cymbals
 };
 
 // === Timing Variables ===
